@@ -1,0 +1,1 @@
+This folder contains solutions to hard-level Stratascratch sql questions.
