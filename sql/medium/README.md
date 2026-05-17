@@ -1,1 +1,1 @@
-This folder contains solutions to medium-level Stratascratch sql questions.
+This folder contains solutions to **medium-level Stratascratch sql** questions.
