@@ -1,1 +1,1 @@
-This folder contains solutions to medium-level Stratascratch pandas questions.
+This folder contains solutions to **medium-level Stratascratch pandas** questions.
