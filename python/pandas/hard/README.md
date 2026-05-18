@@ -1,1 +1,3 @@
-This folder contains solutions to **hard-level Stratascratch pandas** questions.
+# StrataScratch - Pandas (Hard) 
+
+This folder will contain solutions to **hard-level StrataScratch Pandas** problems.

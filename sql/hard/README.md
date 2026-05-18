@@ -1,1 +1,4 @@
-This folder contains solutions to **hard-level Stratascratch sql** questions.
+# StrataScratch - SQL (Hard)
+
+This folder will contain solutions to **hard-level StrataScratch sql** problems.
+

@@ -12,3 +12,4 @@ Each file includes:
 - Filtering conditions
 - GROUP BY & HAVING
 - COUNT (DISTINCT)
+
