@@ -1,14 +1,14 @@
 """
 Platform: Stratascratch
-Problem: Total Cost of Orders
 Difficulty: Easy
-Concepts: pandas merge, groupby, aggregation, sorting
+Question ID: 10183
+Problem:
+Return the total order cost per customer,
+including customer ID, first name, and total cost,
+sorted alphabetically by first name.
 
-Task:
-Calculate the total order cost per customer.
-Return:
-customer id, first name, and total order cost,
-sorted alphabetically by first name. 
+DataFrames: customers, orders
+Concepts: merge, groupby, aggregation, sorting
 """
 
 
