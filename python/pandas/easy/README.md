@@ -12,5 +12,6 @@ Each solution includes:
 - DataFrame merging
 - Groupby & aggregation
 - Sorting
-
+- Column renaming
+- Numeric aggregation & rounding
 
